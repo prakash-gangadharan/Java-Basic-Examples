@@ -1,0 +1,53 @@
+content of file2
+=====================
+
+222
+444
+666
+888
+000
+
+
+
+
+
+content of file 1 combined with
+
+	
+111
+333
+555
+777
+999
+
+
+
+
+
+content of file 1 combined with
+content of file2
+
+=====================
+	
+
+111
+222
+333
+444
+555
+666
+777
+888
+999
+000
+
+
+
+
+
+
+
+
+
+null added
+

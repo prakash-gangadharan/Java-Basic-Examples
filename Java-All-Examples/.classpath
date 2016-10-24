@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="DbQuerryPractise_src"/>
+	<classpathentry kind="src" path="designPatterns_src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/java-7-openjdk-amd64"/>
+	<classpathentry kind="lib" path="/home/prakash/workspace/Appedo-Monitor-Agents/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="/home/prakash/Downloads/Softwares/jarsfolder/tempjars/com.fasterxml.jackson.annotations.jar"/>
+	<classpathentry kind="lib" path="/home/prakash/Downloads/Softwares/jarsfolder/tempjars/com.fasterxml.jackson.core.jar"/>
+	<classpathentry kind="lib" path="/home/prakash/Downloads/Softwares/jarsfolder/tempjars/com.fasterxml.jackson.databind.jar"/>
+	<classpathentry kind="lib" path="/home/prakash/Downloads/Softwares/jarsfolder/tempjars/com.lowagie.text-2.1.7.jar"/>
+	<classpathentry kind="lib" path="/home/prakash/Downloads/Softwares/jarsfolder/tempjars/commons-beanutils-1.7.jar"/>
+	<classpathentry kind="lib" path="/home/prakash/Downloads/Softwares/jarsfolder/tempjars/commons-codec-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/prakash/Downloads/Softwares/jarsfolder/tempjars/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/prakash/Downloads/Softwares/jarsfolder/tempjars/commons-dbcp-1.1.jar"/>
+	<classpathentry kind="lib" path="/home/prakash/Downloads/Softwares/jarsfolder/tempjars/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="/home/prakash/Downloads/Softwares/jarsfolder/tempjars/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/prakash/Downloads/Softwares/jarsfolder/tempjars/commons-lang.jar"/>
+	<classpathentry kind="lib" path="/home/prakash/Downloads/Softwares/jarsfolder/tempjars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/prakash/Downloads/Softwares/jarsfolder/tempjars/commons-pool-1.1.jar"/>
+	<classpathentry kind="lib" path="/home/prakash/Downloads/Softwares/jarsfolder/tempjars/ezmorph.jar"/>
+	<classpathentry kind="lib" path="/home/prakash/Downloads/Softwares/jarsfolder/tempjars/jasperreports-6.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/prakash/Downloads/Softwares/jarsfolder/tempjars/jasperreports-fonts-6.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/prakash/Downloads/Softwares/jarsfolder/tempjars/jasperreports-functions-6.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/prakash/Downloads/Softwares/jarsfolder/tempjars/jasperreports-javaflow-6.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/prakash/Downloads/Softwares/jarsfolder/tempjars/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="/home/prakash/Downloads/Softwares/jarsfolder/tempjars/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="/home/prakash/Downloads/Softwares/jarsfolder/tempjars/joda-time-2.0.jar"/>
+	<classpathentry kind="lib" path="/home/prakash/Downloads/Softwares/jarsfolder/tempjars/json-lib-2.2.2-jdk15.jar"/>
+	<classpathentry kind="lib" path="/home/prakash/Downloads/Softwares/jarsfolder/tempjars/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="/home/prakash/Downloads/Softwares/jarsfolder/tempjars/postgresql-9.4-1201.jdbc4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
