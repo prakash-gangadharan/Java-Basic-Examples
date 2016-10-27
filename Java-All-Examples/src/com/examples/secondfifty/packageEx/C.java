@@ -1,4 +1,4 @@
-package com.examples.secondfifty.package_ex;
+package com.examples.secondfifty.packageEx;
 public class C{
 	public C(){
 		A o=new A();
