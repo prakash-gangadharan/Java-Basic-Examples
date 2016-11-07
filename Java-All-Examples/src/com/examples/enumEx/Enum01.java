@@ -11,7 +11,7 @@ package com.examples.enumEx;
 public class Enum01 {
 
 	public enum AGENT_TYPE {
-		ES("Elasticsearch"), LS("logstash"), KIBANA("kibana"), NGINX("nginx_loadbalancer"), HELLO("asas");
+		ES("Elasticsearch"), LS("logstash"), KIBANA("kibana"), NGINX("nginx_loadbalancer"), HELLO("HELLO");
 
 		private String name;
 
@@ -29,6 +29,8 @@ public class Enum01 {
 	}
 
 	public static void main(String[] args) {
+		
+		System.out.println(AGENT_TYPE.HELLO.getVendorName() == "HELLO");
 
 		System.out.println(AGENT_TYPE.valueOf("NGINX").getVendorName());
 		

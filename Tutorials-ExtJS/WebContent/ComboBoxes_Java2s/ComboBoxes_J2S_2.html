@@ -22,7 +22,7 @@
      
      Ext.onReady(function() {
          var values = new Ext.data.SimpleStore({
-             fields: ['id', 'value'],
+             fields: ['name', 'DispValue'],
              data : [['1','App'],['2','DB'],['3','Server']]
          });
          
@@ -32,14 +32,22 @@
              frame: true,
              title: 'My Combo Box',
              width: 250,
-             items: [
+         	listeners:{
+        		select: function(combo, record, index){
+        			// to avoid execution of both change & select events in select from drop down list.
+        			console.log('Hello world...');
+        		}
+        	},
+        	items: [
                      {
                    xtype: 'combo',
                    name: 'value',
                    fieldLabel: 'Value',
                    mode: 'local',
+                   triggerAction: 'all',
                    store: values,
-                   displayField:'value',
+                   displayField:'DispValue',
+                   valueField: 'name',
                    width: 130
                  }
              ]

@@ -65,7 +65,9 @@
     	        		}            	
     	            },{
     	                title: 'Event Tab',
-    	                listeners: {activate: handleActivate},
+    	                listeners: {
+    	                	click: handleActivate
+    	                	},
     	                html: "I am tab 4's content. I also have an event listener attached."
     	            },{
     	                title: 'Disabled Tab',
@@ -77,7 +79,7 @@
 
     	    function handleActivate(tab){
     	    	console.log('Event Tab was activated..');
-    	        alert(tab.title + ' was activated.');
+    	        //alert(tab.title + ' was activated.');
     	    }
     	    
      });
