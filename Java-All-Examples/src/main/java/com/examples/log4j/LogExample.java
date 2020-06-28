@@ -21,7 +21,6 @@ public class LogExample {
 		
 		new Thread(new Runnable() {
 
-			@Override
 			public void run() {      
 				for (int i = 0; i < 2; i++) {
 					try {

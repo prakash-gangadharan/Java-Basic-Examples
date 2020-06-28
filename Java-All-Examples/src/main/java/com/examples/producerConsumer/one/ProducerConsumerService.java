@@ -7,7 +7,7 @@ public class ProducerConsumerService {
 
 	public static void main(String[] args) {
 		
-		BlockingQueue<Message> queue = new ArrayBlockingQueue<>(10);
+		BlockingQueue<Message> queue = new ArrayBlockingQueue<Message>(10);
 		
 		new Producer(queue);
         new Consumer(queue);

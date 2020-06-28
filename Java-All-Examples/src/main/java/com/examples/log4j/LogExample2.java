@@ -15,7 +15,6 @@ public class LogExample2 {
 
 		new Thread(new Runnable() {
 
-			@Override
 			public void run() {
 				for (int i = 0; i < 5; i++) {
 					try {

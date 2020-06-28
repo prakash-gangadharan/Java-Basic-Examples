@@ -12,7 +12,6 @@ public class Consumer implements Runnable {
 		t.start();
 	}
 
-	@Override
 	public void run() {
 		while (true) {
 			try {

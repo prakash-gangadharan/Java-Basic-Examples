@@ -13,7 +13,6 @@ public class Producer implements Runnable {
 		t.start();
 	}
 
-	@Override
 	public void run() {
 		for (int i = 0; i < 100; i++) {
 			try {
