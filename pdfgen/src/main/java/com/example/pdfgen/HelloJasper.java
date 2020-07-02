@@ -1,4 +1,4 @@
-package pdfgen;
+package com.example.pdfgen;
 import java.util.HashMap;
 import java.util.Random;
 
