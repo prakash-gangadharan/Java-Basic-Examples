@@ -1,4 +1,4 @@
-package com.examples.basic.exercise;
+package com.examples.basic;
 
 public class _5_FibonnacciSeries {
 

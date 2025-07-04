@@ -1,4 +1,4 @@
-package com.examples.basic.exercise;
+package com.examples.basic;
 
 /**
  *  Recursive functions ends when the base case is reached
