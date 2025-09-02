@@ -1,10 +1,1 @@
-client_id
-client secret
-grant_type
-username
-password
-
-
-1911e978-87e1-4745-a77a-fee94bc85a12
-3151fa8a-1262-47e3-8665-860ba7af8558
-password
+....
