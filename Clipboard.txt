@@ -1,1 +1,16 @@
 
+spring.datasource.driver-class-name=oracle.jdbc.driver.OracleDriver
+
+database.oracle.connection-factory-class-name oracle.jdbc.replay.OracleDataSourceImpl
+
+spring.datasource.username=margin_deficit app_user
+
+spring.datasource.password=
+
+spring.datasource.url=jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL = TCP) (HOST=fimuds1-c.fbtmudt.aws-nonprod.fmrcloud.com)(PORT =
+
+1521))) (CONNECT_DATA=(service_name= MDT APP FIMUDS1)))
+
+ESG CLIENT_ID=srvAP148678ApigeeNP
+
+ESG_CLIENT_SECRET=
