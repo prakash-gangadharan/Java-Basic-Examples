@@ -1,0 +1,1 @@
+BEAM UROUTER.URL=https://beam-dataauthz-sit.fmr.com/security/authorization/v013/accounts/function
